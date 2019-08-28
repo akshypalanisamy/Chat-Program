@@ -1,8 +1,6 @@
-Client-Chat program
-Created by Akshy Palanisamy
+# Client-Chat program
 
-This client-chat programs runs on the linux terminal.
-The program was tested on the Ubunutu terminal.
+This client-chat program was written in the python programming language and runs on the linux terminal.
 
 Features:
 +The program takes in hostname and port number through command line arguments.
@@ -24,6 +22,4 @@ Below are the instructions to run the program:
 
 Enter a user name of your choosing when prompted by the client program.
 To add more clients just open a new terminal and run the client program again to add a new client.
-To exit the client program enter the command '/shutdown'
-
------------------------------------------------------------------------------------------------------------------------
+To exit the client program enter the command '/shutdown'.
